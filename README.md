@@ -1,6 +1,12 @@
 # VideoTagger
 
-# Summary
+## Summary
+
+## Explore
+
+## Annotate
+
+## Visualize
 
 # Installation
 
