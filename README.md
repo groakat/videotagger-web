@@ -2,7 +2,7 @@
 
 ## Summary
 
-VideoTagger is the coolest tool around to impress girls.
+VideoTagger is a program that helps scientists.
 
 ## Explore
 
