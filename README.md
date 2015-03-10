@@ -58,9 +58,18 @@ conda install videotagger
 
 # Documentation
 
+## User Guide
+
+We have an ever growing [User Guide](www.userguide.co.uk "Plugin Guide") which should help you getting started. If something is missing, please do not hesitate to write to the [VideoTagger Google Group](https://groups.google.com/forum/#!forum/videotagger "mailing list").
+
 ## Plugins
 
+A great and light-weight way of increasing the functionality of VideoTagger is to write a plugin. Please consult our [Plugin Guide](www.pluginguide.co.uk "Plugin Guide") on how to get started.
+
 ## Contribute
+
+We are always looking for contributions. Feel free to browse the code on github and engage with us on our  [VideoTagger Google Group](https://groups.google.com/forum/#!forum/videotagger "mailing list"). We are glad to help you getting started and we look forward to your pull requests.
+
 
 ## Support
 ### F.A.Q.
