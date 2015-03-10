@@ -14,6 +14,15 @@ If confronted with a long video, extending over hours, if not weeks or months, i
 
 ## Annotate
 
+To quantify findings in the video, annotations are necessary.
+
+- VideoTagger supports infinite label classes and infinite users
+- Each user can customize the colour appearance of each class
+- anything in the video can be tracked by following it with the mouse
+- labels can be easily modified (move, resize, rename) with the mouse
+- externally computed trajectories can be imported
+- thumbnails of adjacent frames are shown that make it easy to see what happens in the previous and following frames
+
 ## Visualize
 ![Animation of Visualization](https://github.com/groakat/videotagger/raw/gh-pages/support/FDV.gif)
 
