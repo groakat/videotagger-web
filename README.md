@@ -50,14 +50,27 @@ Install scripts are available for OSX and Windows (64bit). We provide a conda pa
 ## Linux
 - Please download and install [Anaconda Installer](http://continuum.io/downloads "Anaconda"). 
 - Then run in a terminal:
+
 ```
 conda config --add channels https://conda.binstar.org/groakat
 conda install videotagger
 ```
+
 # Documentation
 
 ## Plugins
 
 ## Contribute
+
+## Support
+### F.A.Q.
+
+### General Questions
+
+Please use the [VideoTagger Google Group](https://groups.google.com/forum/#!forum/videotagger "VideoTagger Google Group") to contact us.
+
+### Reporting Bugs
+
+If you find a bug in VideoTagger, please open an [Issue on Github](https://github.com/groakat/videotagger/issues "issue on github").
 
 
