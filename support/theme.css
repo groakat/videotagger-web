@@ -31,7 +31,9 @@
   padding-left: 40px;
   padding-right: 40px;
   max-width: 800px;
-  line-height: 1.7; }
+  line-height: 1.7; 
+  color:#F00;
+}
 
 .title-card h1 {
   font-family: 'Open Sans', sans-serif;
