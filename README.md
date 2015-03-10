@@ -47,7 +47,13 @@ Install scripts are available for OSX and Windows (64bit). We provide a conda pa
 - Please download and install [Anaconda Installer](http://continuum.io/downloads "Anaconda"). 
 - Download and run our [Windows Installer](www. "Windows (64bit) installer")
 
-
+## Linux
+- Please download and install [Anaconda Installer](http://continuum.io/downloads "Anaconda"). 
+- Then run in a terminal:
+```
+conda config --add channels https://conda.binstar.org/groakat
+conda install videotagger
+```
 # Documentation
 
 ## Plugins
