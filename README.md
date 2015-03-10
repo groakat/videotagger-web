@@ -72,9 +72,9 @@ We are always looking for contributions. Feel free to browse the code on github 
 ## Support
 ### F.A.Q.
 
-### General Questions
+### Mailing List
 
-Please use the [VideoTagger Google Group](https://groups.google.com/forum/#!forum/videotagger "VideoTagger Google Group") to contact us.
+Please use the [VideoTagger Google Group](https://groups.google.com/forum/#!forum/videotagger "VideoTagger Google Group") to contact us. If you do not have a google account, you can subscribe by clicking on the button below: [google subscription](http://groups.google.com/group/videotagger/subscribe "Subscribe to Mailing List")>
 
 ### Reporting Bugs
 
