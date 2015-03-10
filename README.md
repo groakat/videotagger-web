@@ -24,6 +24,14 @@ To quantify findings in the video, annotations are necessary.
 - thumbnails of adjacent frames are shown that make it easy to see what happens in the previous and following frames
 
 ## Visualize
+
+It is a challenge to visualize long continuous data. With annotations, this becomes more and more challenging the longer the video is, as one has to decide between detail or scope of the plotted graphs. As a solution to this problem, we implemented an interactive hierarchical visualization of the annotation data.
+
+- stacked bar-plot for days, hours, minutes and frames
+- each class is represented by a color
+- Each bar-plot is the detailed view of the selected element in the bar-plot above.
+- the plot is navigatable. The user can click on any bar to select it
+
 ![Animation of Visualization](https://github.com/groakat/videotagger/raw/gh-pages/support/FDV.gif)
 
 
