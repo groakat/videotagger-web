@@ -1,3 +1,0 @@
-# Test section
-
-blabla stuff
