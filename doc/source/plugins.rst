@@ -12,5 +12,15 @@ Ideally we want to allow users to include plugins that are capable of getting th
     * Plugins should be stand-alone if executed as Python script
 
 
+Current Status
+--------------
 
-We want to know whether we can test this or not.
+Plugins can be implemented, by using the quite rudimentary `pyTools.system.ClassificationPluginBase` class. We are hoping to include more and more common functions to make it easier to use the plugin functionality.
+
+Plugin Tutorial
+---------------
+
+
+
+
+
