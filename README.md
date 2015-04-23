@@ -44,7 +44,7 @@ Install scripts are available for OSX and Windows (64bit). We provide a conda pa
 ## Windows (64 bit)
 - Please download and install [Anaconda Installer](http://continuum.io/downloads "Anaconda"). 
 - Download and run our [Windows Installer](https://dl.dropboxusercontent.com/u/45267030/secretCode/install.bat "Windows (64bit) installer")
-- Double-click on short-cut on desktop
+- Double-click on short-cut on desktop to start `VideoTagger`
 
 ## Linux
 - Please download and install [Anaconda Installer](http://continuum.io/downloads "Anaconda"). 
@@ -63,7 +63,7 @@ We have an ever growing [User Guide](www.userguide.co.uk "Plugin Guide") which s
 
 ## Plugins
 
-A great and light-weight way of increasing the functionality of VideoTagger is to write a plugin. Please consult our [Plugin Guide](www.pluginguide.co.uk "Plugin Guide") on how to get started.
+A great and light-weight way of increasing the functionality of VideoTagger is to write a plugin. Please consult our [Plugin Guide](http://videotagger.readthedocs.org/en/latest/plugins.html "Plugin Guide") on how to get started.
 
 ## Contribute
 
