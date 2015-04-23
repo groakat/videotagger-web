@@ -38,13 +38,13 @@ It is a challenge to visualize long continuous data. With annotations, this beco
 Install scripts are available for OSX and Windows (64bit). We provide a conda package for Linux users.
 
 ## OSX Yosemite
-- Please download and install [Anaconda Installer](http://continuum.io/downloads "Anaconda"). 
-- Download and run our [OSX Yosemite Installer](https://dl.dropboxusercontent.com/u/45267030/secretCode/Installvideotaggerviaconda.dmg "OSX Yosemite installer")
+1. Please download and install [Anaconda Installer](http://continuum.io/downloads "Anaconda"). 
+2. Download and run our [OSX Yosemite Installer](https://dl.dropboxusercontent.com/u/45267030/secretCode/Installvideotaggerviaconda.dmg "OSX Yosemite installer")
 
 ## Windows (64 bit)
-- Please download and install [Anaconda Installer](http://continuum.io/downloads "Anaconda"). 
-- Download and run our [Windows Installer](https://dl.dropboxusercontent.com/u/45267030/secretCode/install.bat "Windows (64bit) installer")
-- Double-click on short-cut on desktop to start `VideoTagger`
+1. Please download and install [Anaconda Installer](http://continuum.io/downloads "Anaconda"). 
+2. Download and run our [Windows Installer](https://dl.dropboxusercontent.com/u/45267030/secretCode/install.bat "Windows (64bit) installer")
+3. Double-click on short-cut on desktop to start `VideoTagger`
 
 ## Linux
 - Please download and install [Anaconda Installer](http://continuum.io/downloads "Anaconda"). 
