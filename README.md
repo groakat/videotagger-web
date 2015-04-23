@@ -43,7 +43,8 @@ Install scripts are available for OSX and Windows (64bit). We provide a conda pa
 
 ## Windows (64 bit)
 - Please download and install [Anaconda Installer](http://continuum.io/downloads "Anaconda"). 
-- Download and run our [Windows Installer](www. "Windows (64bit) installer")
+- Download and run our [Windows Installer](https://dl.dropboxusercontent.com/u/45267030/secretCode/install.bat "Windows (64bit) installer")
+- Double-click on short-cut on desktop
 
 ## Linux
 - Please download and install [Anaconda Installer](http://continuum.io/downloads "Anaconda"). 
